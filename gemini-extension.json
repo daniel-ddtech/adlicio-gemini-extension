@@ -1,0 +1,12 @@
+{
+  "name": "adlicio",
+  "version": "1.0.0",
+  "description": "Customer-voice research. Scrape comments and reviews from Reddit, YouTube, Amazon, TikTok, Instagram, Trustpilot, app stores and 20+ other sources, search Reddit and YouTube, pull top-performing short videos with their hooks, find Meta Ad Library competitor ads, and build brand and voice-of-customer reports.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "adlicio": {
+      "httpUrl": "https://mcp.tryadlicio.com/mcp",
+      "description": "Adlicio hosted MCP server for customer-voice research. OAuth 2.1 with dynamic client registration, so there is no API key to set."
+    }
+  }
+}
