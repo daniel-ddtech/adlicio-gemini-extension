@@ -4,8 +4,8 @@ Connects Gemini CLI to [Adlicio](https://tryadlicio.com), a customer-voice
 research tool for marketers and ad operators.
 
 Adlicio gives agents real customer language. Scrape comments and reviews from
-Reddit, YouTube, Amazon, TikTok, Instagram, Trustpilot, app stores and 20+ other
-sources, search Reddit and YouTube, pull top-performing TikTok and Instagram
+Reddit, YouTube, Amazon, TikTok, Instagram, Trustpilot, the app stores and more
+(30+ sources), search Reddit and YouTube, pull top-performing TikTok and Instagram
 videos with their hooks, find competitor ads from the Meta Ad Library, and build
 brand and voice-of-customer reports.
 
@@ -55,8 +55,8 @@ posts and reels, TikTok videos, and Notion pages.
 
 ## Access and credits
 
-The MCP server needs the Adlicio All Access plan. The Pro plan covers the Chrome
-extension only. A free account can connect and see the tools, but most tools
+The MCP server works with the Starter, Growth and Scale plans (from $49 a
+month). The Pro plan covers the Chrome extension only. A free account can connect and see the tools, but most tools
 spend research credits. `search_reddit` and `search_youtube` cost no credits.
 
 Plans and setup: <https://tryadlicio.com/mcp>
